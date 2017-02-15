@@ -1,4 +1,4 @@
-##Welcome to No Name Films
+## Welcome to No Name Films
 
 Films change us. Films make us happy. Films show our true emotions. Films are more than just movies and you don't need a name for something that is beyond words and hence "No Name films".
 
@@ -15,6 +15,7 @@ Here are some of the things we do
 - Cinematography
 - Video editing
 - Acting
+- and more...
 
 ```
 
@@ -24,12 +25,10 @@ For some films  by us, check out [our youtube channel](https://www.youtube.com/c
 
 Want to partner with us? Or what us to showcase to the world your great products??? All you need to do is contact us at the email below. ;)
 
-### Contact
-
-We are always open for new opportunities and new talents. 
+##We are always open for new opportunities and new talents. 
 All you need to do is drop in a mail to **nonameshortfilms@gmail.com** and we’ll get in touch with you before you see the next sun :) 
 
-
+![Smile](/pictures/255596.jpg)
 <!-- ## Welcome to No Name Films
 
 You can use the [editor on GitHub](https://github.com/nonamefilms/nonamefilms.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
