@@ -28,7 +28,7 @@ Want to partner with us? Or what us to showcase to the world your great products
 ##We are always open for new opportunities and new talents. 
 All you need to do is drop in a mail to **nonameshortfilms@gmail.com** and we’ll get in touch with you before you see the next sun :) 
 
-![Smile](bg.jpg
+![Smile](bg.jpg)
 
 
 <!-- ## Welcome to No Name Films
